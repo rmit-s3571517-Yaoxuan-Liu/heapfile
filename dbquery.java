@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -108,7 +107,7 @@ public class dbquery {
 	}
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		if (args.length < 2) {
 			System.exit(-1);
 		}
