@@ -1,5 +1,3 @@
-package sample;
-
 import java.nio.ByteBuffer;
 
 public class Field {
