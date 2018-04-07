@@ -1,5 +1,3 @@
-package sample;
-
 public class Record {
 	long pos; // the offset of record
 	Field[] fields;
